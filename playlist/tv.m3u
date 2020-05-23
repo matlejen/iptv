@@ -1,7 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1,TV1
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch007/playlist.m3u8
+
+#EXTINF:-1,TV2
+http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
+
+#EXTINF:-1,TV3
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp375/live-1.m3u8
+
+#EXTINF:-1,NTV7
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-1.m3u8
 
 #EXTINF:-1,8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1,TV9
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qqja6/live-1.m3u8
+
+#EXTINF:-1,ARENA HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,ASTRO CITRA
+p2p://144.217.39.101:4535/5b4b67d3000492d937284dcb596121b4.ts
+
+#EXTINF:-1,ASTRO OASIS
+p2p://144.217.39.101:4535/5b4b68ba000c71b6372bd6552a1c3ac9.ts
