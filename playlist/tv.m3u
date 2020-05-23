@@ -1,4 +1,7 @@
 #EXTM3U
+  
+#EXTINF:-1,TV1
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 
 #EXTINF:-1,TV2
-https://s2.ustv24h.live/CN/myStream/chunks.m3u8?nimblesessionid=2559190&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MDk6MzYgQU0maGFzaF92YWx1ZT1ZS0lhMG5jYW1ESER5bVg5aDRHcXl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
