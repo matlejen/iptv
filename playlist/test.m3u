@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv3.png",TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbuHS5mJzuuy_gHFQhdwtKE)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv1.png",TV3
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
