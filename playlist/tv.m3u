@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,TV1
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv1.png",TV1
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
-#EXTINF:-1,TV2
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv2.png",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
-#EXTINF:-1,TV3
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv3.png",TV3
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 
 #EXTINF:-1,NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 
-#EXTINF:-1,8TV
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/8tv.png",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1,TV9
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv9.png",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 #EXTINF:-1,Drama Sangat
 https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qJbRpH_jPHBMhf5VgBsUpc)/dm/3/x6zvnex/s/live-4.m3u8
 
-#EXTINF:-1,Astro Awani
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/awani.png",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
-#EXTINF:-1,CinemaWorld
-http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF:-1,Cartoon Network
+https://s3.ustv24h.live/CN/myStream/chunks.m3u8?nimblesessionid=2562143&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6MzY6MzIgQU0maGFzaF92YWx1ZT10M0l3VDBjNHN4cnB5WTVYZGt5Nm5RPT0mdmFsaWRtaW51dGVzPTI0MA==
