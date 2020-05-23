@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-group="MY" tvg-logo="",TV1
+#EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/tv1.png",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
