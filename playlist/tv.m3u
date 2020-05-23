@@ -24,8 +24,33 @@ https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qJbRpH_jPHBMhf5Vg
 #EXTINF:-1 tvg-group="MY" tvg-logo="https://matlejen.github.io/iptv/logo/awani.png",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
-#EXTINF:-1,Cartoon Network
-https://s3.ustv24h.live/CN/myStream/chunks.m3u8?nimblesessionid=2562143&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6MzY6MzIgQU0maGFzaF92YWx1ZT10M0l3VDBjNHN4cnB5WTVYZGt5Nm5RPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/cartoon-network/
+#EXTINF:-1 tvg-group="Movie" tvg-logo="https://matlejen.github.io/iptv/logo/cinemax.png",Cinemax
+https://peer3.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=7570551&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDQ6NTcgQU0maGFzaF92YWx1ZT1wcy93KzNXMnRya2Y0MTczSmlUTTF3PT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/cinemax/
 
-#EXTINF:-1,CW
-http://live.falconiptv.com:80/jasmin25/jasmin25/118721
+#EXTINF:-1 tvg-group="Movie",CW
+https://peer6.ustv24h.live/CW/myStream/chunks.m3u8?nimblesessionid=6929984&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDU6MjQgQU0maGFzaF92YWx1ZT03UjRURmNiblJaWXhoVXRZN1h4OTNnPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/the-cw-live-streaming-free/
+
+#EXTINF:-1 tvg-group="Movie" tvg-logo="https://matlejen.github.io/iptv/logo/fx.png",FXMovie
+https://peer1.ustv24h.live/FXMovie/myStream/chunks.m3u8?nimblesessionid=7612493&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDY6MDggQU0maGFzaF92YWx1ZT0weTNKUFVZMnpRVVM5QTlFRC8yNVhBPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/fxm/
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://matlejen.github.io/iptv/logo/disney.png",Disney
+https://s3.ustv24h.live/Disney/myStream/chunks.m3u8?nimblesessionid=2563051&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6NTg6NDAgQU0maGFzaF92YWx1ZT1sRDRWeEdXajI0STdzY2hsSmxGaDVRPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/disney-channel-live-streaming-free/
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://matlejen.github.io/iptv/logo/disneyjr.png",DisneyJr
+https://s1.ustv24h.live/DisneyJr/myStream/chunks.m3u8?nimblesessionid=2543339&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6NTk6MzQgQU0maGFzaF92YWx1ZT1oN1psOVZvSE4zbGJUdnYyVkVkMjdnPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/disneyjr/
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://matlejen.github.io/iptv/logo/disneyxd.png",DisneyXD
+https://peer3.ustv24h.live/DisneyXD/myStream/chunks.m3u8?nimblesessionid=7570171&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDA6MTMgQU0maGFzaF92YWx1ZT12elZGMDJpNVIwVTJRd3Ezbk4rbFpRPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/disneyxd/
+
+#EXTINF:-1 tvg-group="Kids",Nicktoons
+https://peer5.ustv24h.live/Nicktoons/myStream/chunks.m3u8?nimblesessionid=7007281&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDk6NTkgQU0maGFzaF92YWx1ZT01OHNLdDZZbVhGNGxIbnN4alN1OVNnPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/nicktoons/
+
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://matlejen.github.io/iptv/logo/animalplanet.png",Animal Planet
+https://s1.ustv24h.live/Animal/myStream/chunks.m3u8?nimblesessionid=2543623&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDc6MzAgQU0maGFzaF92YWx1ZT1TSEJtS292ME9qQWZBL0d4aGRqZnl3PT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/animal-planet-live/
+
+#EXTINF:-1 tvg-group="Documentary",Investigation Discovery
+https://peer2.ustv24h.live/ID/myStream/chunks.m3u8?nimblesessionid=6976758&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDg6NTIgQU0maGFzaF92YWx1ZT1QSW9JWC8rU05KbWRHUVNVUFBJQ1ZBPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/investigation-discovery-live-streaming-free/
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://matlejen.github.io/iptv/logo/foodnetwork.png",Food Network
+https://ustvgo.tv/food-network-live-free/|Referer=https://ustvgo.tv/food-network-live-free/
