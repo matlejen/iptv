@@ -1,22 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1,TV1
-http://rtm-live.glueapi.io/smil:rtmch007/playlist.m3u8
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
 #EXTINF:-1,TV2
-http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
 #EXTINF:-1,TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbuHS5mJzuuy_gHFQhdwtKE)/dm/3/x6qp375/d/live-3.m3u8
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/TV3.m3u8u8
 
 #EXTINF:-1,NTV7
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08jtWpf5evAKOk09-KOi_nmQ)/dm/3/x7a7rxp/s/live-4.m3u8
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/NTV7.m3u8
 
 #EXTINF:-1,8TV
 https://github.com/exodiver/IPTV/blob/master/M3U8/Token/8TV.m3u8
 
 #EXTINF:-1,TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTh09GlTG2k-gOo1syA6Hv0)/dm/3/x6qqja6/s/live-4.m3u8
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1,ARENA HD
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1,Drama Sangat
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1,Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1,CinemaWorld
+http://210.210.155.35/uq2663/h/h04/01.m3u8
